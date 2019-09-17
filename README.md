@@ -4,11 +4,11 @@
 
 Bộ Font chữ ra đời nhằm thay thế cho các Font chữ theo bảng mã TCVN3 cũ như: .VnTime, .VnArial và nhiều Font có ký hiệu (.) ở đầu Font.
 
-Với bộ Font này, cài đặt tốt trên macOS từ 10.11 đến 10.14. Các ký tự trong Font chữ được giữ nguyên gốc như phiên bản .VnTime của TCVN3 thường dùng trên Windows.
+Bộ Font này cài đặt tương thích tốt trên macOS từ 10.11 đến 10.14. Các ký tự trong Font chữ được giữ nguyên gốc như phiên bản .VnTime của TCVN3 thường dùng trên Windows.
 
 ## Cài đặt
 
-1. Tải bộ Font chữ về từ mục Clone or Download hoặc vào [đường dẫn này](https://github.com/1234hdpa/TCVN-Fix-Font-MacOS/releases) để tải tử mục Release.
+1. Tải bộ Font chữ về từ mục Clone or Download hoặc vào [đường dẫn này](https://github.com/1234hdpa/TCVN-Fix-Font-MacOS/releases) để tải từ mục Release.
 2. Giải nén.
 3. Mở ứng dụng Font Book mặc định.
 4. Kéo thả các Font chữ trong thư mục đã giải nén vào cửa sổ Font Book đã mở.
