@@ -4,7 +4,7 @@
 
 Bộ Font chữ ra đời nhằm thay thế cho các Font chữ theo bảng mã TCVN3 cũ như: .VnTime, .VnArial và nhiều Font có ký hiệu (.) ở đầu Font.
 
-Bộ Font này cài đặt tương thích tốt trên macOS từ 10.11 đến 11.0.1 (Big Sur). Các ký tự trong Font chữ được giữ nguyên gốc như phiên bản .VnTime của TCVN3 thường dùng trên Windows.
+Bộ Font này cài đặt tương thích tốt trên macOS từ 10.11 đến 11.3.1 (Big Sur). Các ký tự trong Font chữ được giữ nguyên gốc như phiên bản .VnTime của TCVN3 thường dùng trên Windows.
 
 ## Cài đặt
 
@@ -15,7 +15,7 @@ Bộ Font này cài đặt tương thích tốt trên macOS từ 10.11 đến 11
 5. Sau khi quá trình cài đặt hoàn tất. Khởi động lại macbook để hệ thống cập nhật.
 6. Mở các ứng dụng soạn thảo, điều chỉnh Font chữ theo TCVN3 về các Font chữ đã cài đặt. VD: Nếu văn bản dùng Font chữ .VnTime thì ta điều chỉnh lại về Font TCVN-VnTime.
 
-## Đặt điểm
+## Đặc điểm
 
 Bộ Font chữ đã được điều chỉnh lỗi Name Table để có thể cài đặt trên macOS mà không gây ra lỗi hệ thống. Bạn hoàn toàn có thể thử tải về và cài đặt các Font .VnTime và sẽ nhận ra lỗi Name Table không cho phép cài đặt các Font đó.
 
