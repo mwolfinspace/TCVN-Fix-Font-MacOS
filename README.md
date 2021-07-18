@@ -8,7 +8,7 @@ Bộ Font này cài đặt tương thích tốt trên macOS từ 10.11 đến 11
 
 ## Cài đặt
 
-1. Tải bộ Font chữ về từ mục Clone or Download hoặc vào [đường dẫn này](https://github.com/1234hdpa/TCVN-Fix-Font-MacOS/releases) để tải từ mục Release.
+1. Tải bộ Font chữ về từ mục Code > Clone > Download ZIP hoặc vào [đường dẫn này](https://github.com/1234hdpa/TCVN-Fix-Font-MacOS/releases) để tải từ mục Release.
 2. Giải nén.
 3. Mở ứng dụng Font Book mặc định.
 4. Kéo thả các Font chữ trong thư mục đã giải nén vào cửa sổ Font Book đã mở.
